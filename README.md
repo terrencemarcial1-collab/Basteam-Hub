@@ -1,57 +1,57 @@
 # Basteam Hub
 
-## Project Overview
-Basteam Hub is a collaborative platform designed to facilitate team communication, project management, and resource sharing. It aims to streamline workflows and enhance productivity among team members.
+## Overview  
+Basteam Hub is a comprehensive STEM EdTech platform designed to enhance learning in various STEM subjects. The platform features interactive modules, lessons, flashcards, quizzes, and streak tracking to gamify the learning experience.
 
-## Features
-- **Real-time Collaboration**: Work simultaneously with team members on projects.
-- **Task Management**: Organize tasks and track their progress with ease.
-- **Document Sharing**: Share files and documents securely among team members.
-- **Integration**: Connect with other tools and services to enhance functionality.
+## Features  
+1. **Modules**:  
+   - Comprehensive modules covering topics in Math, Physics, Chemistry, Biology, and Computer Science.
 
-## Installation
-To get started with Basteam Hub, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/terrencemarcial1-collab/basteam-hub.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd basteam-hub
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+2. **Lessons**:  
+   - Detailed lessons that provide in-depth knowledge and understanding of STEM concepts.
 
-## Usage
-To start the application, run:
-```bash
-npm start
-```
-Visit `http://localhost:3000` in your browser to access the platform.
+3. **Flashcards**:  
+   - Interactive flashcard systems for quick revision and memorization of key terms and equations.
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your commit message"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a Pull Request.
+4. **Quizzes**:  
+   - Engaging quizzes designed to test understanding and reinforce learning.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+5. **Streak Tracking**:  
+   - Feature to motivate users by tracking their study streaks, promoting consistency in learning.
 
-## Contact
-For any questions or inquiries, please contact the project maintainer:
-- Email: terrencemarcial1@example.com
-- GitHub: [terrencemarcial1-collab](https://github.com/terrencemarcial1-collab)
+6. **Game-Based Learning**:  
+   - Incorporation of games to make learning fun and interactive, enhancing engagement and retention.
+
+## Subject Breakdown  
+### Math  
+- Algebra  
+- Geometry  
+- Calculus  
+- Statistics  
+
+### Physics  
+- Mechanics  
+- Thermodynamics  
+- Electromagnetism  
+- Optics  
+
+### Chemistry  
+- Organic Chemistry  
+- Inorganic Chemistry  
+- Physical Chemistry  
+- Analytical Chemistry  
+
+### Biology  
+- Cell Biology  
+- Genetics  
+- Ecology  
+- Evolutionary Biology  
+
+### Computer Science  
+- Programming Languages  
+- Data Structures  
+- Algorithms  
+- Software Development  
+
+## Conclusion  
+Basteam Hub aims to revolutionize the way STEM subjects are taught and learned, making education accessible and engaging for everyone.
